@@ -1,0 +1,1 @@
+! Never perform a Side-Effect inside the Reducer, applies to both Synchronous and Asynchronous
